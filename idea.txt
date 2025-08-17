@@ -1,0 +1,12 @@
+we are making a book list.
+
+1. user can create a book or multiple book
+
+        id:
+        book_name:
+        author_name:
+        price:
+
+2. user can update a book 
+3. user can delete a book or multiple book
+4. user can see all book list or filter by author name 

@@ -1,0 +1,32 @@
+[
+    {
+        "_id": 1,
+        "book_name": "accounting",
+        "author_name": "sumon barai",
+        "price": 700
+    },
+    {
+        "_id": 2,
+        "book_name": "management",
+        "author_name": "subrota barai",
+        "price": 1550
+    },
+    {
+        "_id": 3,
+        "book_name": "harray potter series",
+        "author_name": "j. k. rowling",
+        "price": 5000
+    },
+    {
+        "_id": 4,
+        "book_name": "the great gatsby",
+        "author_name": "f. scott fitzgerald",
+        "price": 4750
+    },
+    {
+        "_id": 5,
+        "book_name": "david copperfield",
+        "author_name": "charles dickens",
+        "price": 4100
+    }
+]
